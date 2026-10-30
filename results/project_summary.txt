@@ -1,0 +1,10 @@
+BANK MARKETING ML MINI PROJECT
+Dataset: 1000 synthetic records
+
+              Model  Accuracy  Precision  Recall  F1 Score  ROC-AUC
+Logistic Regression     0.620     0.6168  0.6535    0.6346   0.6322
+        Naive Bayes     0.585     0.5849  0.6139    0.5990   0.6133
+                SVM     0.555     0.5545  0.6040    0.5782   0.5771
+      Decision Tree     0.540     0.5429  0.5644    0.5534   0.5398
+      Random Forest     0.520     0.5248  0.5248    0.5248   0.5391
+                KNN     0.430     0.4369  0.4455    0.4412   0.4638
